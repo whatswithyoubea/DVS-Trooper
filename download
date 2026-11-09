@@ -1,0 +1,20 @@
+# Simulation outputs
+*.vcd
+*.vpd
+*.wlf
+*.log
+*.key
+dump.vcd
+*.fsdb
+
+# EDA Tool Temporary Files
+work/
+transcript
+vsim.wlf
+*.jou
+*.pb
+.Xil/
+
+# OS artifacts
+Thumbs.db
+.DS_Store
